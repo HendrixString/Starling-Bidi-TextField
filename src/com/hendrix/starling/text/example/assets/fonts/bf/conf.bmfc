@@ -1,0 +1,56 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Arial
+fontFile=../FbTipograf-Regular.otf
+charSet=0
+fontSize=25
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=0
+renderFromOutline=0
+useClearType=1
+
+# character alignment
+paddingDown=0
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+
+# output file
+outWidth=256
+outHeight=256
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=4
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=1
+invG=1
+invB=1
+
+# outline
+outlineThickness=0
+
+# selected chars
+chars=32-126,1470,1472,1475,1478,1488-1514,1520-1524,8192-8207,8210-8226,8230,8234-8240,8242-8244,8249
+chars=8250,8252,8254,8260,8286,8298-8303,8352-8373,8376-8377
+
+# imported icon images

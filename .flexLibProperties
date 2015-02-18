@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.BidiBitmapFont"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.BidiTextField"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.core.db.BidiClassDB"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.core.Categories"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.core.types.LevelRun"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.core.DirectionalOverrideStatus"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.core.BidiClassTypes"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.BidiFactory"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.Bidi"/>
+    <classEntry path="com.hendrix.starling.text.bidiTextField.bidi.core.db.SResources"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
