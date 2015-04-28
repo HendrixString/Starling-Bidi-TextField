@@ -11,7 +11,7 @@ to your project, or import to your IDE of choice such as `Flash Builder 4.7`. re
 - supports text truncation.
 - supports text truncation.
 
-## How to use
+## Guide
 
 ```
 [Embed(source="assets/fonts/bf/arr.fnt", mimeType="application/octet-stream")]
