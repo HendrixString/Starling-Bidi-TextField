@@ -700,21 +700,49 @@ package com.hendrix.starling.text.bidiTextField
       return fonts;
     }
     
+    /**
+     * is the text for truncation enabled
+     *  
+     * @return true/false
+     * 
+     */
     public function get isTrancted():Boolean
     {
       return _isTrancted;
     }
     
+    /**
+     * set the text for truncation enabled
+     *  
+     * @param value true/false
+     * 
+     */
     public function set isTrancted(value:Boolean):void
     {
       _isTrancted = value;
     }
     
+    /**
+     * get the basic bidi level of the text.
+     * 0 ==> Left to right 
+     * 1 ==> Right to left
+     *  
+     * @param value the bidi level
+     * 
+     */
     public function get bidiLevel():uint
     {
       return _bidiLevel;
     }
     
+    /**
+     * set the basic bidi level of the text.
+     * 0 ==> Left to right 
+     * 1 ==> Right to left
+     *  
+     * @param value the bidi level
+     * 
+     */
     public function set bidiLevel(value:uint):void
     {
       _bidiLevel = value;
