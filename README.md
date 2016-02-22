@@ -13,7 +13,7 @@ to your project, or import to your IDE of choice such as `Flash Builder 4.7`. re
 
 ## Guide
 
-```
+```actionscript
 [Embed(source="assets/fonts/bf/arr.fnt", mimeType="application/octet-stream")]
 public static const FontXml:Class;
 
